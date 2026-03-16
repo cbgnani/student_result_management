@@ -1,0 +1,38 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#f2f2f2;
+}
+
+h1{
+color:#333;
+}
+
+.menu a{
+display:block;
+width:200px;
+margin:10px auto;
+padding:10px;
+background:blue;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
+
+.menu a:hover{
+background:darkblue;
+}
+
+form{
+background:white;
+width:300px;
+margin:auto;
+padding:20px;
+border-radius:5px;
+}
+
+input{
+width:90%;
+padding:8px;
+margin:5px;
+}
